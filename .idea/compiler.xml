@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="detailcloud-api" />
+        <module name="detailcloud-provider" />
+        <module name="detailcloud-consumer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="detailcloud" target="1.8" />
+      <module name="detailcloud-api" target="1.8" />
+      <module name="detailcloud-consumer" target="1.8" />
+      <module name="detailcloud-provider" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

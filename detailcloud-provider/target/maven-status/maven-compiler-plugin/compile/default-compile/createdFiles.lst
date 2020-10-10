@@ -1,0 +1,6 @@
+com\yc\springcloud812\service\BookService.class
+com\yc\springcloud812\controller\BookController.class
+com\yc\springcloud812\dao\MisBaseMapper.class
+com\yc\springcloud812\dao\BookMapper.class
+com\yc\springcloud812\service\BookServiceImpl.class
+com\yc\springcloud812\Springcloud.class
