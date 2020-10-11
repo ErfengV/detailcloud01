@@ -22,6 +22,7 @@
 		<module>detailcloud-api</module>
 		<module>detailcloud-provider</module>
 		<module>detailcloud-consumer</module>
+		<module>detailcoud-security</module>
 	</modules>
 
 	<!-- 会实际下载jar包,子项目会继承这些依赖  -->
@@ -75,6 +76,11 @@
 				<version>2.0.4</version>
 			</dependency>
 
+			<dependency>
+				<groupId>com.yc.springcloud812</groupId>
+				<artifactId>detailcoud-security</artifactId>
+				<version>0.0.1-SNAPSHOT</version>
+			</dependency>
 
 
 		</dependencies>

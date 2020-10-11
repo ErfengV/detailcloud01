@@ -16,7 +16,7 @@ import java.math.BigDecimal;
 import java.util.Date;
 
 @Data      //  lombok 注解，节省getter, setter
-@Table(name = "book")
+@Table(name = "book") //JPA注解，将java关联表，==》关联数据库，创建数据源
 public class Book {
 
     @Id

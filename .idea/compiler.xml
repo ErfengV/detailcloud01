@@ -7,9 +7,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="detailcloud-api" />
         <module name="detailcloud-provider" />
         <module name="detailcloud-consumer" />
+        <module name="detailcoud-security" />
+        <module name="detailcloud-api" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,6 +18,7 @@
       <module name="detailcloud-api" target="1.8" />
       <module name="detailcloud-consumer" target="1.8" />
       <module name="detailcloud-provider" target="1.8" />
+      <module name="detailcoud-security" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

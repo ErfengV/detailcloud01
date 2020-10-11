@@ -1,4 +1,4 @@
 com\yc\springcloud812\controller\BookController.class
 com\yc\springcloud812\config\AppConfig.class
 com\yc\springcloud812\domain\Book.class
-com\yc\springcloud812\ConsumerStart.class
+com\yc\springcloud812\ConsumerApplication.class

@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/detailcloud-api/detailcloud-api.iml" filepath="$PROJECT_DIR$/detailcloud-api/detailcloud-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/detailcloud-consumer/detailcloud-consumer.iml" filepath="$PROJECT_DIR$/detailcloud-consumer/detailcloud-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/detailcloud-provider/detailcloud-provider.iml" filepath="$PROJECT_DIR$/detailcloud-provider/detailcloud-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/detailcoud-security/detailcoud-security.iml" filepath="$PROJECT_DIR$/detailcoud-security/detailcoud-security.iml" />
     </modules>
   </component>
 </project>
